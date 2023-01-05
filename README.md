@@ -3,7 +3,7 @@
 
 
 ## Link
- [Portfolio link](https://precious-crepe-7dd83b.netlify.app/)
+ [Assignment link](https://magical-gumption-a79a16.netlify.app/)
 
 
 👤 **AUTHOR**
